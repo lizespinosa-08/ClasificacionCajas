@@ -1,0 +1,9 @@
+# Ejecutables
+*.exe
+
+# Archivos compilados de Java
+*.class
+
+# Archivos temporales
+*.o
+*.obj
